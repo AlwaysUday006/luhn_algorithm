@@ -51,6 +51,21 @@ The Luhn algorithm is a checksum formula used to validate identification numbers
 
 ---
 
+## 🌐 Try It on Streamlit
+
+You can try this project instantly here:  
+👉 [**Luhn Validator Web App**](https://alwaysuday006-luhn-algorithm-app-056.streamlit.app/) 🚀
+
+### ▶️ Run Locally
+```bash
+# Install dependencies
+pip install streamlit
+
+# Run the Streamlit app
+streamlit run app.py  
+
+---
+
 ## 💡 Outcome
 This project demonstrates **practical cryptography and algorithmic validation** while reinforcing Python fundamentals.  
 It also shows how a console program can be turned into a **user-friendly web application** with Streamlit.
